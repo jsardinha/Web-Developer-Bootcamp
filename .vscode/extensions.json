@@ -1,0 +1,26 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "formulahendry.code-runner",
+        "pranaygp.vscode-css-peek",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "donjayamanne.githistory",
+        "felipecaputo.git-project-manager",
+        "eamodio.gitlens",
+        "maziac.hex-hover-converter",
+        "bradgashler.htmltagwrap",
+        "zignd.html-css-class-completion",
+        "pawelborkar.jellyfish",
+        "ritwickdey.liveserver",
+        "pkief.material-icon-theme",
+        "miramac.vscode-exec-node",
+        "techer.open-in-browser",
+        "hoovercj.vscode-power-mode",
+        "shan.code-settings-sync",
+        "balduinlandolt.surround-with-tag",
+        "tomoki1207.pdf",
+        "slevesque.vscode-zipexplorer"
+    ]
+}
