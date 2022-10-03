@@ -28,8 +28,43 @@ span {
 
 .post a{
     color: #457b9d;
+    font-weight: 700;
+    text-decoration: none;
 }
 
 footer a{
     color: #e63946;
+}
+
+h2+button {
+    font-size: 20px;
+}
+
+footer > a{
+    color: #3e30c0;
+}
+
+input[type="password"]{
+    color: magenta;
+}
+
+a[href*=google]{
+    color: rgb(29, 175, 29);
+}
+
+.post button:hover{
+    background-color: red;
+    color: white;
+}
+
+.post a:hover{
+    text-decoration: underline;
+}
+
+.post button:active{
+    background-color: #02c39a;
+}
+
+.post:nth-of-type(2n){
+    background-color: #def4d9;
 }
